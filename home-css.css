@@ -1,0 +1,134 @@
+head{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    background-color: rgb(0, 0, 0);
+}
+.users{
+    display: inline;
+    text-decoration: none;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    bottom: 45px;
+    color: rgb(0, 0, 255);
+    font-size: 20px;
+}
+.users:hover{
+    color: white;
+}
+.contactme{
+    display: inline;
+    text-decoration: none;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    bottom: 45px;
+    color: blue;
+    font-size: 20px;
+}
+.contactme:hover{
+    color: white;
+}
+.about{
+    display: inline;
+    text-decoration: none;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    bottom: 45px;
+    color: blue;
+    font-size: 20px;
+}
+.about:hover{
+    color: white;
+}
+.services{
+    display: inline;
+    text-decoration: none;
+    padding: 15px 50px 15px 50px;
+    position: relative;
+    bottom: 45px;
+    color: blue;
+    font-size: 20px;
+}
+.services:hover{
+    color: white;
+}
+.img{
+    display: inline;
+}
+#imgsize{
+    width: 90px;
+    height: 100px;
+    padding: 10px 10px 10px 20px;
+}
+#imgadmin{
+    width: 70px;
+    height: 80px;
+    padding: 20px 20px 10px 10px;
+    float: right;
+}
+#table{
+    border: black 2px solid;
+    width: 100%;
+    text-align: center;
+}
+#id{
+   font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#Username{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#speed{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#count{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#date{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#Update{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#Delete{
+    font-size: 20px;
+    text-align: center;
+    color:blue;
+}
+#dataID{
+
+    text-align: center;
+}
+#dataUSer{
+    text-align: center;
+}
+#dataspeed{
+    text-align: center;
+}
+#datacount{
+    text-align: center;
+}
+#datadate{
+    text-align: center;
+}
+#fsa{
+    text-decoration: none;
+    background-color: orange;
+    
+}
